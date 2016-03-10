@@ -3,50 +3,50 @@ define(['character'], function(Character) {
 
     var NpcTalk = {
         "guard": [
-            "Hello there",
-            "We don't need to see your identification",
-            "You are not the player we're looking for",
-            "Move along, move along..."
+            "Ну, привет",
+            "Нам не нужно тебя опознавать",
+            "Ты не игрок, которого мы ищем",
+            "Иди, иди..."
         ],
     
         "king": [
-            "Hi, I'm the King",
-            "I run this place",
-            "Like a boss",
-            "I talk to people",
-            "Like a boss",
-            "I wear a crown",
-            "Like a boss",
-            "I do nothing all day",
-            "Like a boss",
-            "Now leave me alone",
-            "Like a boss"
+            "Привет, я Король",
+            "Я управляю этим местом",
+            "Как босс",
+            "Я говорю с людьми",
+            "Как босс",
+            "Я ношу корону",
+            "Как босс",
+            "Я весь день ничего не делаю",
+            "Как босс",
+            "А теперь, оставь меня одного",
+            "Как босса"
         ],
     
         "villagegirl": [
-            "Hi there, adventurer!",
-            "How do you like this game?",
-            "It's all happening in a single web page! Isn't it crazy?",
-            "It's all made possible thanks to WebSockets.",
-            "I don't know much about it, after all I'm just a program.",
-            'Why don&#x27;t you read this <a target="_blank" href="http://hacks.mozilla.org/2012/03/browserquest/">blog post</a> and learn all about it?'
+            "Привет, путешественник!",
+            "Ну что, тебе нравится эта игра?",
+            "Всё это делается в одной веб-страничке, правда здорово?",
+            "Это возможно благодаря веб-сокетам.",
+            "Я мало об этом знаю, я же всё-таки простая программа.",
+            'Почему бы тебе не прочитать этот <a target="_blank" href="http://hacks.mozilla.org/2012/03/browserquest/">пост в нашем блоге (англ.)</a> и всё про них узнать?'
         ],
     
         "villager": [
-            "Howdy stranger. Do you like poetry?",
-            "Roses are red, violets are blue...",
-            "I like hunting rats, and so do you...",
-            "The rats are dead, now what to do?",
-            "To be honest, I have no clue.",
-            "Maybe the forest, could interest you...",
-            "or instead, cook a rat stew."
+            "Приветствую, приятель! Ты любишь поэзию?",
+            "Роза красна, а колокольчик синий...",
+            "Охотится на крыс прекрасно, когда ты такой сильный!",
+            "Крыс больше нет, что будешь делать ты?",
+            "Често, я не знаю, а знаю только про цветы...",
+            "Может, интересует тебя лес?",
+            "А вообще, тут у нас полным-полно чудес."
         ],
     
         "agent": [
-            "Do not try to bend the sword",
-            "That's impossible",
-            "Instead, only try to realize the truth...",
-            "There is no sword."
+            "Не пытайся согнуть меч",
+            "Это невозможно.",
+            "Вместо этого, попробуй понять правду...",
+            "Меча не существует."
         ],
     
         "rick": [
@@ -65,20 +65,20 @@ define(['character'], function(Character) {
         ],
         
         "scientist": [
-            "Greetings.",
-            "I am the inventor of these two potions.",
-            "The red one will replenish your health points...",
-            "The orange one will turn you into a firefox and make you invincible...",
-            "But it only lasts for a short while.",
-            "So make good use of it!",
-            "Now if you'll excuse me, I need to get back to my experiments..."
+            "Приветствую.",
+            "Я изобретатель этих зелий.",
+            "Красное восполнит твой запас здоровья.",
+            "А оранжевое сделает тебя неуязвымым огнелисом...",
+            "Но действует оно недолго.",
+            "Так что используй его аккуратно!",
+            "А теперь, если позволишь, я вернусь к экспериментам."
         ],
     
         "nyan": [
-            "nyan nyan nyan nyan nyan",
-            "nyan nyan nyan nyan nyan nyan nyan",
-            "nyan nyan nyan nyan nyan nyan",
-            "nyan nyan nyan nyan nyan nyan nyan nyan"
+            "Ня-ня ня ня ня",
+            "ня ня ня ня ня",
+            "Ня-ня ня ня",
+            "Ня ня ня ня ня-ня ня-ня"
         ],
         
         "beachnpc": [

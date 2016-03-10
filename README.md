@@ -3,6 +3,7 @@ BrowserQuest
 
 BrowserQuest is a HTML5/JavaScript multiplayer game experiment.
 
+This is a project to translate the client side to Russian.
 
 Documentation
 -------------
